@@ -1,0 +1,23 @@
+{
+  "name": "taf-for-web-cypress",
+  "version": "1.0.0",
+  "description": "TAF (Test Automation Framework) for Web using Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgauravkhanna/TAF-for-web-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgauravkhanna/TAF-for-web-cypress/issues"
+  },
+  "homepage": "https://github.com/iamgauravkhanna/TAF-for-web-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  }
+}
